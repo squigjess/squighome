@@ -16,3 +16,4 @@ excuse the dust and the cables running across the floor.
     * <a href="http://twitter.com/an_irl_squig">twitter</a>
     * <a href="http://github.com/squigjess">github</a>
     * <a href="#">bloog</a>
+    * <a href="https://github.com/squigjess/squighome/blob/master/HOWDO.txt">how i made this silly little website</a>
