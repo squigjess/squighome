@@ -18,7 +18,7 @@ function calculate_padding(width_of_content, padding_char="~") {
 
 function print_to_page(block_of_text) {
     var header = "";  // The final text to be put on the page
-    var padding = " ".repeat( calculate_padding(block_of_text.content_width) );
+    var padding = " ".repeat(Math.min(0, calculate_padding(block_of_text.content_width)));
     var lines = block_of_text.plain_content.split("\n");
     for (var i=0; i<lines.length; i++){
         header += padding+lines[i]+padding+"<br/>"
