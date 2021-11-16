@@ -13,6 +13,6 @@
 welcome to my dusty little corner of the internet. please
 excuse the dust and the cables running across the floor.
 
-    * <a href="http://myspace.com">twitter</a>
-    * <a href="http://google.com">github</a>
-    * <a href="http://icanhazip.com">bloog</a>
+    * <a href="http://twitter.com/an_irl_squig">twitter</a>
+    * <a href="http://github.com/squigjess">github</a>
+    * <a href="#">bloog</a>
