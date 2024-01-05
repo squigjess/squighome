@@ -17,3 +17,10 @@ excuse the dirt and the cables running across the floor.
         * <a href="http://github.com/squigjess">github</a>
         * <a href="#">bloog</a>
         * <a href="HOWDO.txt">how i made this silly little website</a>
+
+
+                       __
+                    o-''|\_____/)
+                     \_/|_)     )
+                        \  __  /
+                        (_/ (_/
