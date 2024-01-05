@@ -11,9 +11,9 @@
                /___/
 
 welcome to my dusty little corner of the internet. please
-excuse the dust and the cables running across the floor.
+excuse the dirt and the cables running across the floor.
 
-    * <a href="http://twitter.com/an_irl_squig">twitter</a>
-    * <a href="http://github.com/squigjess">github</a>
-    * <a href="#">bloog</a>
-    * <a href="https://github.com/squigjess/squighome/blob/master/HOWDO.txt">how i made this silly little website</a>
+        * <a href="http://twitter.com/an_irl_squig">twitter</a>
+        * <a href="http://github.com/squigjess">github</a>
+        * <a href="#">bloog</a>
+        * <a href="HOWDO.txt">how i made this silly little website</a>
